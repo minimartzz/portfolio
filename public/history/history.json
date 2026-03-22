@@ -1,0 +1,121 @@
+[
+  {
+    "type": "Education",
+    "title": "MSc Applied Data Science",
+    "organization": "University of Michigan",
+    "description": "Master program in machine learning systems, statistical modelling and large-scale data engineering. Coursework spans data visualisation, deep learning, NLP, MLOps, advanced statistics. Applied techniques to real-world domains like healthcare, finance, and education showcasing a portfolio that demonstrates end-to-end data science capabilities. A balance between technical skill and business acument.",
+    "startDate": "Jan 2025 -",
+    "endDate": "Apr 2026",
+    "technologies": ["Python", "PyTorch", "Scikit-learn", "SQL", "PySpark"],
+    "icon": "/history/umich.png",
+    "projects": [
+      {
+        "title": "StackOverflow Visualisation",
+        "description": "Visualised the top skills as indicted in Stack Overflow's annual survey for developers"
+      },
+      {
+        "title": "FHIR Cost Prediction",
+        "description": "Used historical insurance claims data from US FHIR system to estimate cost of care for patients"
+      }
+    ]
+  },
+  {
+    "type": "Project",
+    "title": "Trakka",
+    "organization": null,
+    "description": "Full-stack board game stats tracking and analytics platform. Community-focused with tribe-based metrics, user roles, and advanced performance analytics.",
+    "startDate": "Oct 2025",
+    "endDate": null,
+    "technologies": ["Next.js", "Tailwind", "Supabase"],
+    "icon": "/history/trakka.png"
+  },
+  {
+    "type": "Work",
+    "title": "Data Engineer",
+    "organization": "Nxera",
+    "description": "Lead the design, development and maintenance of Data Center operations. Modernised data collection pipeline and downstream delivery methods for mission critical reporting. Also led a team of 2 data analyst to deveop dashboards for equipment fault alerts.",
+    "startDate": "Oct 2023 -",
+    "endDate": "Nov 2024",
+    "technologies": [
+      "Python",
+      "MySQL",
+      "Kafka",
+      "MinIO",
+      "DeltaLake",
+      "Ubuntu"
+    ],
+    "icon": "/history/nxera.png",
+    "projects": [
+      {
+        "title": "Data Center ETL Pipeline",
+        "description": "Engineered and scaled a robust data lake and ETL pipeline architecture, automating the ingestion of 300k+ daily data points"
+      },
+      {
+        "title": "Real-time Monitoring Suite",
+        "description": "Developed a real-time monitoring suite using in-house tools to track machine health and reduce downtime"
+      },
+      {
+        "title": "AI-drive Optimisation",
+        "description": "Led the integration of AI-driven optimisation algorithms within data center operations achieving S$300k in annual cost savings"
+      }
+    ]
+  },
+  {
+    "type": "Work",
+    "title": "Machine Learning Engineer",
+    "organization": "Singtel",
+    "description": "[Management Associate Rotation 2] Responsible for the development of prediction models that supported sales teams initiatives and the creation of in-house tools to accelerate internal teams modelling operations",
+    "startDate": "Oct 2022 -",
+    "endDate": "Sep 2023",
+    "technologies": ["Python", "PySpark", "SQL", "Airflow", "MLFlow"],
+    "icon": "/history/singtel.png",
+    "projects": [
+      {
+        "title": "Time Series Forecasting Model",
+        "description": "Architected a Time-Series Forecasting model (ARIMA) to predict spare fiber utilisation, identifying high-potential sales territories and increasing pipeline conversion rates by 23%"
+      },
+      {
+        "title": "Quotation Engine Enhancement",
+        "description": "Optimised the enterprise quotation engine by implementing a rule-based engine slashing lead times by 20%"
+      },
+      {
+        "title": "Internal MLOps Platform",
+        "description": "Standardized the ML lifecycle by building and internal MLOps platform using Mlflow, Ansible, Bamboo, streamlining model versioning and deployment to boost team productivity by 10%"
+      }
+    ]
+  },
+  {
+    "type": "Work",
+    "title": "5G Consultant",
+    "organization": "NCS",
+    "description": "Worked at the intersection of technical delivery and business strategy, building cloud-native 5G proof-of-concepts to win enterprise clients, while advising cross-industry clients on digital transformation. Managed an ecosystem of business partners to co-develop new 5G solutions.",
+    "startDate": "Oct 2021 -",
+    "endDate": "Sep 2022",
+    "technologies": ["Python", "Azure", "5G"],
+    "icon": "/history/ncs.png",
+    "projects": [
+      {
+        "title": "5G Demo Development",
+        "description": "Architected cloud-native 5G proof-of-concepts on Azure, delivering technical demonstrations to client stakeholders that secured multiple new enterprise partnerships"
+      },
+      {
+        "title": "Pre-sales Business Development",
+        "description": "Consulted on digital transformation strategies for cross-industry clients, designing 5G-enabled products that expanded the firm’s addressable market in Retail and Manufacturing"
+      },
+      {
+        "title": "Partner & Client Management",
+        "description": "Cultivated a strategic ecosystem of 50+ technology partners, facilitating collaborative R&D efforts to create new offerings for emerging 5G solutions"
+      }
+    ]
+  },
+  {
+    "type": "Education",
+    "title": "BEng Engineering Systems & Design (Business Analytics). Minor in AI.",
+    "organization": "SUTD",
+    "description": "develops expertise in data-driven decision making, spanning predictive analytics and statistics on the descriptive side, and optimisation and reinforcement learning on the prescriptive side. Coursework had us deal with industry clients, delivering solutions targeted for their problems to grant additional experience. The AI minor adds depth in machine learning, deep learning, computer vision and NLP.",
+    "startDate": "Sep 2018 -",
+    "endDate": "Jun 2021",
+    "technologies": ["Python", "R", "SQL", "Scikit-learn", "XGBoost", "AWS"],
+    "icon": "/history/sutd.png"
+  }
+]

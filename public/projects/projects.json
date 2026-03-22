@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Trakka",
+    "link": "http://trakka.co",
+    "description": "[Active Development] My passion project! I love board games, so I built an end-to-end board game stats tracking and analytics platform. Enables users to track their gaming sessions, compare against their friends and observe their performance. Community-focused design with features like tribe-based metrics, user roles and advanced metrics. If you're a fan like me, give it a try! It is still under active development",
+    "image": "/projects/trakka.png",
+    "tags": ["Web Development"],
+    "technologies": ["NEXT.js", "tailwind", "Supabase"]
+  },
+  {
+    "title": "pAInt-by-the-numbers",
+    "link": "https://paint-webapp.onrender.com/",
+    "description": "Bought myself a canvas, and thought of this project. So, I developed an AI pipeline that integrates Diffusion models with Computer Vision algorithms to transform standard imagery into 'paint-by-the-numbers' templates",
+    "image": "/projects/pbn.png",
+    "tags": ["Data Science", "Diffusion", "Web Development"],
+    "technologies": ["Python", "OpenCV", "Diffusion", "Cloudinary"]
+  },
+  {
+    "title": "Bean Juice",
+    "link": "https://github.com/minimartzz/bean-juice",
+    "description": "I love coffee, but I don't always know what coffee fits my profile. So I developed a RAG-based system that looks at your bean preference and comes up with bean suggestions. Data was scraped from coffeereview.com",
+    "image": "/projects/bean-juice.png",
+    "tags": ["LLM", "Machine Learning"],
+    "technologies": ["Python", "Langchain", "ChromaDB", "Ollama"]
+  },
+  {
+    "title": "Board Games Recommender",
+    "link": "https://github.com/minimartzz/bg-reco",
+    "description": "[Active Development] A recommendation system module to suggest board games based on player ratings and play history.",
+    "image": "/projects/bg-reco.png",
+    "tags": ["Data Science", "Machine Learning"],
+    "technologies": ["Python"]
+  },
+  {
+    "title": "Predicting Healthcare Cost",
+    "link": "https://github.com/martza87/siads_696_mII?tab=readme-ov-file",
+    "description": "Exploring the use of unsupervised learning to bundle procedures and supervised learning to estimate costs for patient by predicting what bundle of procedures they would most likely use to treat their conditions.",
+    "image": "/projects/medical-pred.jpg",
+    "tags": ["Data Science", "Machine Learning"],
+    "technologies": ["Python", "Scikit-Learn", "XGBoost", "MLFlow"]
+  },
+  {
+    "title": "Various Kaggle Projects",
+    "link": "https://github.com/minimartzz/kaggle-projects",
+    "description": "Compilation of the different Kaggle projects that I have participated in.",
+    "image": "/projects/kaggle.png",
+    "tags": ["Data Science", "Machine Learning"],
+    "technologies": ["Python"]
+  }
+]

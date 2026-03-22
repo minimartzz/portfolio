@@ -1,0 +1,22 @@
+[
+  {
+    "title": "AZ204: Azure Developer Associate",
+    "provider": "Microsoft",
+    "progress": false
+  },
+  {
+    "title": "AWS Solutions Architect Associate",
+    "provider": "AWS",
+    "progress": true
+  },
+  {
+    "title": "HuggingFace LLM Certification",
+    "provider": "HuggingFace",
+    "progress": false
+  },
+  {
+    "title": "Postgraduate Diploma in Business Management",
+    "provider": "Emeritus",
+    "progress": false
+  }
+]
