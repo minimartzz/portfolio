@@ -14,7 +14,7 @@ import Certifications from "@/components/Certifications";
 const SOCIALS = [
   {
     name: "LinkedIn",
-    link: "www.linkedin.com/in/martin-ho-zy",
+    link: "https://www.linkedin.com/in/martin-ho-zy/",
     icon: FaLinkedin,
   },
   {
